@@ -1,6 +1,7 @@
 package me.e404nnf.copypastadiscordbot;
 
-import me.e404nnf.copypastadiscordbot.discord.events.*;
+import me.e404nnf.copypastadiscordbot.discord.events.BotReady;
+import me.e404nnf.copypastadiscordbot.discord.events.CopypastaCommand;
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.entities.Activity;
 
