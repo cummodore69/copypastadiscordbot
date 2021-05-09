@@ -1,0 +1,11 @@
+# Reddit client ID
+cwient_id: "<CLIENT_ID>"
+# Reddit client secret
+cwient_secwet: "<CLIENT_SECRET>"
+# Reddit username and password
+usewname: "<REDDIT_USERNAME"
+passwewd: "<REDDIT_PASSWORD>"
+# Reddit useragent
+usew_agent: "<REDDIT_USERAGENT>"
+# Discord bot token
+tewken: "<DISCORD_TOKEN>"
