@@ -1,4 +1,4 @@
-package me.e404nnf.copypastadiscordbot.discord.events;
+package org.cummodore69.copypastadiscordbot.discord.events;
 
 import net.dv8tion.jda.api.events.GenericEvent;
 import net.dv8tion.jda.api.events.ReadyEvent;

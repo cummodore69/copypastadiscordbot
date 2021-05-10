@@ -1,0 +1,17 @@
+# Discord bot prefix, command and token
+prefix: "cp!"
+command: "copypasta"
+discordToken: "ODQwMzE1NTgwOTAwOTY2NDMx.YJWa3g.hrPgjRpFt3cz2qe8DWizCGj6ikA"
+
+reddit:
+  # Your app ID, Suggestion: Use your java package for appId
+  appId: "org.cummodore69.copypastadiscordbot"
+  # Version
+  version: "v1.0"
+  # Reddit username and password
+  username: "e404nnf"
+  password: "wtf767676%%%"
+  # oAuth ClientID and ClientSecret
+  clientId: "q2RqJftN6Lo52A"
+  clientSecret: "ZURUq8HGFr_EewIUcKpO3MEe5hYGIQ"
+  subreddit: "copypasta"

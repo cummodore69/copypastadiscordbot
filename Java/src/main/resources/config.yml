@@ -1,0 +1,18 @@
+# Discord bot prefix, command and token
+prefix: "cp!"
+command: "copypasta"
+discordToken: "{DISCORD_TOKEN}"
+
+reddit:
+  # Your app ID, Suggestion: Use your java package for appId
+  appId: "org.cummodore69.copypastadiscordbot"
+  # Version
+  version: "v1.0"
+  # Reddit username and password
+  username: "{REDDIT_USERNAME}"
+  password: "{REDDIT_PASSWORD}"
+  # oAuth ClientID and ClientSecret
+  clientId: "{REDDIT_CLIENTID}"
+  clientSecret: "{REDDIT_CLIENTSECRET}"
+  # Subreddit to pull from
+  subreddit: "copypasta"
